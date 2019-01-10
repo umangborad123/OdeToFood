@@ -77,6 +77,6 @@ c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\b
 c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
 c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
 c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
 c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+c:\users\umang.borad\documents\visual studio 2015\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
